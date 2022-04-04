@@ -10,6 +10,8 @@ I am an awesome student at Lehigh, you should hire me!
 
 ---
 
+_**[Module4notes](Module4notes)**_
+
 ## Portfolio
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
